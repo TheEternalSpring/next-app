@@ -1,0 +1,8 @@
+.main{
+    display: flex;
+    background-color: teal;
+    height: 14cm;
+    border-style: outset;
+    border-color: aqua;
+    border-width: 5px;
+}
