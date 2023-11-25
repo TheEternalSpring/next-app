@@ -1,5 +1,7 @@
 import React from "react";
 import styles from './navbar.module.css'
+//this is just a funny text that sits here and i have wasted ur time trying to find it hehehe
+//WHO MUST GO!?
 
 function Navbar() {
   const links = [
