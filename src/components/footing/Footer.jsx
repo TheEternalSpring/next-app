@@ -1,6 +1,7 @@
 import React from 'react'
 import styles from "./footer.module.css"
 import Image from 'next/image'
+//i am the metallica
 
 function Footer() {
   return (
