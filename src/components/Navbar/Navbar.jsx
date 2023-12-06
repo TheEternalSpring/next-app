@@ -22,7 +22,7 @@ function Navbar() {
     {
       id: 4,
       title: "Redundancy Department",
-      url:"/redundancydepartment"
+      url:"/reddep"
     },
     {
       id: 5,
@@ -41,8 +41,9 @@ function Navbar() {
       <div>Main</div>
       <div className={styles.links}>
         {links.map((link) => (
-          <div>{link.title}</div>
+          <Link href={link.url}>{link.title}</Link>
         ))}
+        <button className={styles.logout}>Logout</button>
       </div>
     </div>
   );
