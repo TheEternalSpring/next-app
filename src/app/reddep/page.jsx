@@ -1,9 +1,9 @@
 import React from 'react'
 
-function AJAJAJR() {
+function redipi() {
   return (
     <div>REDUNDANT</div>
   )
 }
 
-export default AJAJAJR
+export default redipi
