@@ -1,0 +1,28 @@
+.catistitle{
+    text-transform: capitalize;
+    color: aqua;
+}
+
+.item{
+    display: flex;
+    gap: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.image{
+    flex: 1;
+    height: 500px;
+    position: relative;
+}
+
+.imga{
+    object-fit: cover;
+}
+
+.content{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
