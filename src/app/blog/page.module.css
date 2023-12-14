@@ -1,0 +1,19 @@
+.mainContent{display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;}
+
+.minorContent{}
+
+.theImagetheman{
+    object-fit: cover;
+}
+
+.title{
+    margin-bottom: 10px
+}
+
+.desc{
+    font-size: 18px;
+  color: #999;
+}
